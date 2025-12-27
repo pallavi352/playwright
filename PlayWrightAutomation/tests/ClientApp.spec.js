@@ -7,7 +7,6 @@
  {
     //js file- Login js, DashboardPage
      const email = "anshika@gmail.com";
-       email = "anshika@gmail.com";
      const productName = 'Zara Coat 4';
      const products = page.locator(".card-body");
      await page.goto("https://rahulshettyacademy.com/client");
